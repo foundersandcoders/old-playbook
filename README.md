@@ -7,4 +7,5 @@ This playbook repo is intended to be a reference on how we do things at [Founder
 If there is **something you think should be here, but you don't have time to write it**, please _open an issue_. Someone will get to it eventually!
 
 ##Contents
++ [Before you arrive](/before-arrival.md
 + [House Rules](/house-rules.md) [WiP]

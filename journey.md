@@ -7,21 +7,21 @@ We have four kinds of developer at Founders & Coders.
 + Developer 
 + Senior developer
 
-###Graduate
+**Graduate**    
 After completing the eight-week foundation course, you are officially a *graduate developer*. You can work on MVP projects and follow-up work for MVP clients. 
 
-###Apprentice
+**Apprentice**    
 After completing an *apprentice panel*, you become an *apprentice developer*. Apprentices can join a *developer* as the junior member of a two-person development team.
 
-###Developer
+**Developer**    
 After completing a *developer panel*, you become a *developer*. Developers can take on an apprentice as the senior member of a two-person development team.
 
-###Senior developer
+**Senior developer**    
 After completing a *senior developer panel*, you become a *senior developer*.
 
 ## The panel
 
-To achieve each level, candidates will be expected to submit to a three-member panel of three members the following:
+To achieve each level, candidates will be expected to submit to a three-member panel the following:
 
 + A fully-documented code repository of a project that you have worked; 
 + A case study for the website of the project, using our case study template;
@@ -32,18 +32,16 @@ To achieve each level, candidates will be expected to submit to a three-member p
 
 In certain cases, alternatives to these requirements can be accepted as a panel submission, but this will need to be discussed in advance.
 
-###The teaching resource
+####The teaching resource
 The teaching resource could take the form of a project "starter kit" for a project or some similar resource that could be used on the course or for a workshop. Please discuss your intended resource before starting on it.
 
 ####What the panel will be looking for
-
-+ *Why?* Why do I need to know this?
-+ Provide context: How does this fit into our existing body of knowledge? (any prerequisites?)
-+ Use a logical structure
-+ Beginner-friendly (terminology and examples)
-+ An associated repo with example code that people can clone and play with
-+ How to resolve problems when things go wrong, not just a tutorial of when everything goes your way
-+ Split into various steps where people can checkout a branch in your repo at every step and play with the code you have set up
++ Provide context: How does this fit into our existing body of knowledge? (any prerequisites?);
++ Use a logical structure;
++ Make it beginner-friendly (terminology and examples);
++ Include an associated repo with example code that people can clone and play with;
++ Exaplin how to resolve problems when things go wrong, not just a tutorial of when everything goes your way;
++ Split into various steps where people can checkout a branch in your repo at every step and play with the code you have set up.
 
 Before submitting to the panel, candidates will consult with one of the panel members to ensure that they and their resources are ready for submission. Only once the panel member thinks the candidate is ready can the candidate submit to the panel.    
 
@@ -55,14 +53,14 @@ Before they become apprentices, students may work together on MVPs, internal pro
 
 Once an apprentice becomes a developer, they will be expected to act as lead developer and to take on an apprentice for any projects they take on.  
 
-Developer-apprentice teams will be expected to pair up into groups of four to undertake regular (i.e. weekly) code reviews for each other.   
+Apprentice-developer teams will be expected to undertake regular (i.e. weekly) code reviews for other teams.   
 
 Developers should have some sort of supervision with a senior developer (although Nelson is the only person in the space who currently qualifies, so we need to use his time sparingly).
 
 Some implications of these proposals: 
 
 + Inexperienced developers will always have somebody more experienced to work with; 
-+ Graduates put themselves forward to be apprenticed only when they and we think they are ready; 
++ Graduates can put themselves forward to be apprenticed only when they and we think they are ready; 
 + There is a clearly-defined journey from less experienced to more experienced developer; 
 + Everyone in the space takes the quality of their work and their contribution to learning seriously; 
 + This goes some way to beginning to make quality control possible;  
@@ -73,8 +71,8 @@ Some implications of these proposals:
 *What happens to somebody who has finished the course, but is not yet an apprentice?*    
 They can continue to work on MVPs, follow-up work for MVP clients, internal projects and their own projects.  
 
-*What sort of support will students get before they are apprentices?*     
- Less than we would like. They need to make sure that they are working together with other students and are regularly submitting their own work to peer review as well as peer reviewing other students' work.  
+*What sorts of support will graduates get before they are apprentices?*     
+ Less than we would like. They need to make sure that they are working together with other graduates and are regularly submitting their own work to peer review as well as peer reviewing other graduates' work.  
 
 *What happens if somebody fails the panel submission?*    
 This should never happen. It is the responsibility of the panel members to make sure a candidate is ready before they submit to the panel.  
@@ -88,7 +86,7 @@ It is a rite of passage. It is a reminder that we take the quality of our work a
 *Will there be a presentation every week?*     
 With 16 new students every four months and apprentices graduating to developers, there will probably be at least one pass presentation per week and sometimes more.  
 
-*Who's going to sit on the appointment panels?*    
+*Who is going to sit on the appointment panels?*    
 For now, the panel consists of our two company directors, Ines and Dan, and our one resident senior developer, Nelson.
 
 *How much work have we got coming in?*    

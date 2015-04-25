@@ -8,7 +8,7 @@ Each project will consist of a complete minimum viable product (MVP). The first 
 
 ### Project selection
 
-+ After project are posted on the MVP projects board, students can add their names to a project.
++ After a project is posted on the MVP projects board, students can add their names to it.
 + Students will work on projects in teams of 2-5.
 
 ### Process
@@ -43,7 +43,7 @@ All income received for these MVPs will be divided equally between the students.
 
 ### On completion of four projects
 
-After the MVP project are completed, students may continue with any follow-up work for the client at their own discretion.
+After an MVP project is completed, students may continue with any follow-up work for the client at their own discretion.
 
 They may also pick up further MVP projects, if any are available.
 

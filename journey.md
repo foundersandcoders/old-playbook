@@ -59,8 +59,8 @@ Developers should have some sort of supervision with a senior developer (althoug
 
 Some implications of these proposals: 
 
-+ Inexperienced developers will always have somebody more experienced to work with; 
 + Graduates can put themselves forward to be apprenticed only when they and we think they are ready; 
++ Apprentices will get the opportunity to work with more experienced developers;
 + There is a clearly-defined journey from less experienced to more experienced developer; 
 + Everyone in the space takes the quality of their work and their contribution to learning seriously; 
 + This goes some way to beginning to make quality control possible;  

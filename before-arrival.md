@@ -26,6 +26,12 @@ Here's a [pretty good introduction](https://www3.ntu.edu.sg/home/ehchua/programm
 
 Work through our [Introduction to Git and Version Control](https://github.com/NataliaLKB/learn-git-basics).
 
+### READMEs and markdown
+
+This document is a README. We are going to use them a lot on this course.
+
+Read [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) and then, if you do not already know markdown, complete [this short tutorial](http://markdowntutorial.com/).
+
 
 *Dan, April 24.*
 

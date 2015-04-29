@@ -5,25 +5,21 @@ We have four kinds of developer at Founders & Coders.
 + Graduate 
 + Apprentice 
 + Developer 
-+ Senior developer
 
 **Graduate**    
 After completing the eight-week foundation course, you are officially a *graduate developer*. You can work on MVP projects and follow-up work for MVP clients. 
 
 **Apprentice**    
-After completing an *apprentice panel*, you become an *apprentice developer*. Apprentices can join a *developer* as the junior member of a two-person development team.
+After completing an *apprentice panel*, you become an *apprentice developer*. Apprentices can join a *developer* as a member of a two-person development team.
 
 **Developer**    
-After completing a *developer panel*, you become a *developer*. Developers can take on an apprentice as the senior member of a two-person development team.
-
-**Senior developer**    
-After completing a *senior developer panel*, you become a *senior developer*.
+After completing a *developer panel*, you become a *developer*. Developers can take on an apprentice.
 
 ## The panel
 
 To achieve each level, candidates will be expected to submit to a three-member panel the following:
 
-+ A fully-documented code repository of a project that you have worked on; 
++ A fully-documented repository of a project or software module that you have worked; 
 + A case study for the website of the project, using our case study template;
 + A teaching resource in the form of a GitHub repository with an associated README;
 + An accompanying blog post for the website; 
@@ -47,23 +43,19 @@ Before submitting to the panel, candidates will consult with one of the panel me
 
 The panel will all provide feedback in the form of GitHub issues (and face-to-face discussion). When the panel is satisfied with the quality of the material, the candidate must present both pieces to an open forum of members at which anyone may ask questions.  
 
-The process is the same for each of the three levels, but the level of craftsmanship required will be expected to be significantly higher for each successive level.   
+The process is the same for each level, but the level of craftsmanship required will be expected to be significantly higher for each successive level.   
 
 Before they become apprentices, students may work together on MVPs, internal projects and their own projects. Only once a student becomes an apprentice, can they be apprenticed to a developer, on a project-by-project basis.   
 
-Once an apprentice becomes a developer, they will be expected to act as lead developer and to take on an apprentice for any projects they take on.  
+Once an apprentice becomes a developer, they will be expected to take on an apprentice for any projects they take on.  
 
 Apprentice-developer teams will be expected to undertake regular (i.e. weekly) code reviews for other teams.   
-
-Developers should have some sort of supervision with a senior developer (although Nelson is the only person in the space who currently qualifies, so we need to use his time sparingly).
 
 Some implications of these proposals: 
 
 + Graduates can put themselves forward to be apprenticed only when they and we think they are ready; 
-+ Apprentices will get the opportunity to work with more experienced developers;
 + There is a clearly-defined journey from less experienced to more experienced developer; 
 + Everyone in the space takes the quality of their work and their contribution to learning seriously; 
-+ This goes some way to beginning to make quality control possible;  
 + We build up some high-quality open source learning materials that we and others can re-use.   
 
 ## FAQs  
@@ -87,7 +79,7 @@ It is a rite of passage. It is a reminder that we take the quality of our work a
 With 16 new students every four months and apprentices graduating to developers, there will probably be at least one pass presentation per week and sometimes more.  
 
 *Who is going to sit on the appointment panels?*    
-For now, the panel consists of our two company directors, Ines and Dan, and our one resident senior developer, Nelson.
+For now, the panel consists of our two company directors, Ines and Dan, and our resident expert, Nelson.
 
 *How much work have we got coming in?*    
 Check the projects board or come to the Friday projects meeting to find out. 
@@ -95,5 +87,3 @@ Check the projects board or come to the Friday projects meeting to find out.
 *What will apprentices be paid?*    
 We are a freelance co-operative. We are all self-employed. We set our own rates of pay. But we are aiming for a starting rate for apprentices of £10/hour.    
 
-*Can I stay in the space and work on my own projects?*     
-Yes. We will probably rely on people finding bits of freelance work for themselves when not working on projects together. 

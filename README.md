@@ -8,7 +8,16 @@ If there is **something you think should be here, but you don't have time to wri
 
 ##Contents
 + [Before you arrive](/before-arrival.md)
-+ [House Rules](/house-rules.md) [WiP]
-+ [The 8-week foundation course](/foundation.md) [always WiP]
-+ [The second 8 weeks](/projects.md)
-+ [The apprenticeship](/journey.md)
++ [House Rules](/house-rules.md)
+
+###The programme
++ [Weeks 1-8: Foundation](/foundation.md)
++ [Weeks 9-16: MVPs](/mvps.md)
++ [Week 16+: Apprenticeship](/journey.md)    
+
+###The classroom        
++ [Student teams](/teams.md)
++ [Schedule](/schedule.md)
++ [Projects](/projects.md)
++ [Code reviews](/code-reviews.md)
++ [Pair programming](/pair-programming.md)

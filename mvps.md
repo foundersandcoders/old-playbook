@@ -1,6 +1,6 @@
 # MVP projects
 
-After completion of the foundation course, students can continue with a further period of study, consisting of four projects completed over eight weeks.
+After completion of the foundation course, students can continue with a further period of study, consisting of four projects completed over up to eight weeks.
 
 Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will be for external clients.
 
@@ -13,7 +13,8 @@ Each project will consist of a complete minimum viable product (MVP). The first 
 
 ### Process
 
-+ Each project will normally start on a Monday and end on a Friday two weeks later.
++ Each project will normally start on a Monday.
++ Projects will last for two weeks (athough later projects may be completed over one week, if preferred)
 + Each team will use PivotalTracker to manage the project.
 + Each team will appoint a trainer to train the client in using PivotalTracker.
 + Each project will consist of two one-week sprints.
@@ -23,17 +24,16 @@ Each project will consist of a complete minimum viable product (MVP). The first 
 
 ### Communication
 
-+ Each project team will appoint a client manager, who's job it will be to communicate with the client throughout the project.
-+ It is up to the client manager to arrange meeting times with the client.
-+ It is up to the client manager to notify the client of any changes to schedule or personnel.
-+ It is up to the client manager to delegate any of these tasks if they are not available to carry them out.
++ Each project team will appoint a team lead, who's job it will be to communicate with the client throughout the project.
++ It is up to the team lead to arrange meeting times with the client.
++ It is up to the team lead to notify the client of any changes to schedule or personnel.
++ It is up to the team lead to delegate any of these tasks if they are not available to carry them out.
 + It is the responsiblity of all team members to notify their colleagues of any changes to their own availability.
 
 ### Documentation
 
 + Each team will maintain a GitHub repository for the project with a README.
-+ Unless the client requests otherwise, the repo will be public.
-+ But the repo and the README should not refer to the client by name.
++ Unless the client requests otherwise, the repo will be public. (But the repo and the README should not refer to the client by name.)
 + No sensitive client information should be included in the repo.
 + Each team will complete a screencast for the client to accompany the README, describing the project and how to install and use it.
 
@@ -43,9 +43,11 @@ All income received for these MVPs will be divided equally between the students.
 
 ### On completion of four projects
 
-After an MVP project is completed, students may continue with any follow-up work for the client at their own discretion.
+Graduate developers can continue to work on MVP projects, as they become available. We recommend two-person teams working for up to a week on a project, making MVPs a viable means of earning a modest living. 
 
-They may also pick up further MVP projects, if any are available.
+We also encourage graduates to continue with any follow-up work for the client after the completion of an MVP.
+
+
 
 
 

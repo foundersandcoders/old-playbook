@@ -10,7 +10,7 @@ If there is **something you think should be here, but you don't have time to wri
 + [Before you arrive](/before-arrival.md)
 + [House Rules](/house-rules.md)
 + [The 8-week foundation course](/foundation.md)
-+ [The second 8 weeks](/projects.md)
++ [The MVPs](/mvps.md)
 + [The apprenticeship](/journey.md)
 + [Student teams](/teams.md)
 + [Classroom schedule](/schedule.md)

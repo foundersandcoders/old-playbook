@@ -11,7 +11,7 @@ If there is **something you think should be here, but you don't have time to wri
 + [House Rules](/house-rules.md)
 
 ###The programme
-+ [Weeks 1-8: Foundation course](/foundation.md)
++ [Weeks 1-8: Foundation](/foundation.md)
 + [Weeks 9-16: MVPs](/mvps.md)
 + [Week 16+: Apprenticeship](/journey.md)    
 

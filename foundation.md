@@ -3,7 +3,7 @@
 ### Outline syllabus
 
 **Week 1: Introduction to software development for the Web**    
-Introduction to HTTP and the Web,  HTML and CSS, UX, the JavaScript programming language, testing, TDD, paired programming, problem solving, using online resources effectively, agile development, Git and GitHub, website hosting, lean product development and MVPs.
+Introduction to HTTP and the Web,  HTML and CSS, UX, wireframing, the JavaScript programming language, testing, TDD, paired programming, problem solving, using online resources effectively, agile development, Git and GitHub, website hosting, lean product development and MVPs.
 
 **Week 2: Web APIs**    
 APIs, AJAX, JSON, jQuery. 

@@ -23,8 +23,8 @@ To achieve each level, candidates will be expected to submit to a three-member p
 + A case study for the website of the project, using our case study template;
 + A teaching resource in the form of a GitHub repository with an associated README;
 + An accompanying blog post for the website; 
-+ A screencast of the teaching resource for our YouTube channel (a collegue can do the voiceover, if preferred);
-+ Demonstrate your contributions to collegues' work, through a history of issues raised on GitHub;
++ A screencast of the teaching resource for our YouTube channel (a colleague can do the voiceover, if preferred);
++ Demonstrate your contributions to colleagues' work, through a history of issues raised on GitHub;
 
 In certain cases, alternatives to these requirements can be accepted as a panel submission, but this will need to be discussed in advance.
 
@@ -32,7 +32,7 @@ In certain cases, alternatives to these requirements can be accepted as a panel 
 The teaching resource could take the form of a project "starter kit" for a project or some similar resource that could be used on the course or for a workshop. Please discuss your intended resource before starting on it.
 
 ####What the panel will be looking for
-+ Provide context: How does this fit into our existing body of knowledge? (any prerequisites?);
++ Provide context: How does this fit into our existing body of knowledge? (any prerequisites?)
 + Use a logical structure;
 + Make it beginner-friendly (terminology and examples);
 + Include an associated repo with example code that people can clone and play with;

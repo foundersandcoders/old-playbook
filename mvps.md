@@ -2,7 +2,7 @@
 
 After completion of the foundation course, students can continue with a further period of study, consisting of four projects completed over up to eight weeks.
 
-Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will be for external clients.
+Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will usually be for external clients.
 
 ##Guidelines
 
@@ -33,21 +33,17 @@ Each project will consist of a complete minimum viable product (MVP). The first 
 ### Documentation
 
 + Each team will maintain a GitHub repository for the project with a README.
-+ Unless the client requests otherwise, the repo will be public. (But the repo and the README should not refer to the client by name.)
++ Unless the client requests otherwise, the repo will be public. (But the repo and the README should usually not refer to the client by name to give their project some sort of anonymity.)
 + No sensitive client information should be included in the repo.
 + Each team will complete a screencast for the client to accompany the README, describing the project and how to install and use it.
 
 ### Pay
 
-All income received for these MVPs will be divided equally between the students.
+On successful completion of a project, all income received for these MVPs will be divided equally between the students.
 
 ### On completion of four projects
 
-Graduate developers can continue to work on MVP projects, as they become available. We recommend two-person teams working for up to a week on a project, making MVPs a viable means of earning a modest living. 
+Graduate developers can continue to work on MVP projects, as they become available. We recommend two-person teams working for up to a week on a project, making MVPs a viable means for students to earn a modest living while they continue to develop their skills. 
 
 We also encourage graduates to continue with any follow-up work for the client after the completion of an MVP.
-
-
-
-
 

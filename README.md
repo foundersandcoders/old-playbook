@@ -9,11 +9,13 @@ If there is **something you think should be here, but you don't have time to wri
 ##Contents
 + [Before you arrive](/before-arrival.md)
 + [House Rules](/house-rules.md)
-+ [The 8-week foundation course](/foundation.md)
-+ [The MVPs](/mvps.md)
-+ [The apprenticeship](/journey.md)
+**The programme**    
++ [Weeks 1-8: Foundation course](/foundation.md)
++ [Weeks 9-16: MVPs](/mvps.md)
++ [Week 16+: Apprenticeship](/journey.md)
+**The classroom**        
 + [Student teams](/teams.md)
-+ [Classroom schedule](/schedule.md)
-+ [Classroom projects](/projects.md)
++ [Schedule](/schedule.md)
++ [Projects](/projects.md)
 + [Code reviews](/code-reviews.md)
 + [Pair programming](/pair-programming.md)

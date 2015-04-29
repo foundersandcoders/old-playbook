@@ -14,7 +14,7 @@
 
 ##Coding questions crib sheet  
 
-+ When defining a new function are we using sensible names? 
++ When defining a new function, are we using sensible names? 
 + Is it obvious at first glance what the procedure is for?  
 + What are the inputs for the function? 
 + And are these inputs reflected in the arguments?  
@@ -26,5 +26,5 @@
 + What test are you going to add next?  
 + Are you using sensible names for all your variables? 
 + Is it obvious at first glance what each of them is being used for?  
-+ As you work through the problem, are you working from the outside in or are you trying to solve the problem in a linear sequence from top to bottom? (try working from the outside in)
++ As you work through the problem, are you working from the outside in or are you trying to solve the problem in a linear sequence from top to bottom? (try working from the outside in, always thinking about the inputs and outputs of the code block you are working on)
 

@@ -21,6 +21,6 @@ More on databases and testing with Node.js.
 
 **Week 7: React**    
 
-**Week 8: to be confirmed**    
+**Week 8: dog food**    
 
 As usual, all content is subject to change. 

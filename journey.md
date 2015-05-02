@@ -13,17 +13,17 @@ We have five kinds of developer at Founders & Coders.
 **Student**
  During the [8 week foundation course](https://github.com/foundersandcoders/playbook/blob/master/foundation.md), you are a _student_. You can't work on F&C client work but you can and _should_ dedicate your time to learning the material and asking as many questions as you can!
 
-**Graduate**
+**Graduate**    
 After completing the 8 week foundation course, you are officially a *graduate developer*. You can work on MVP projects and follow-up work for your **MVP clients**, internal projects and your own projects. Only once a student becomes an apprentice, can they be apprenticed to a developer, on a project-by-project basis.
 
 
-**Apprentice**
+**Apprentice**    
 After completing an *apprentice panel*, you become an *apprentice developer*. Apprentices can join a *developer* as a **member of a two-person development team** and work on **all F&C client work** (non-MVPs as well as MVPs).
 
-**Developer**    
+**Developer**        
 After completing a *developer panel*, you become a *developer*. Developers can **take on an apprentice** and work on **all F&C client work** (non-MVPs as well as MVPs). Apprentice-developer teams will be expected to undertake regular (i.e. weekly) code reviews for other teams.
 
-**Lead Developer**
+**Lead Developer**    
 After completing a *lead developer panel*, you become a *Lead developer*. Lead developers can continue to pair with developers or apprentices but can also lend their expertise on an ad-hoc basis to other projects. [requires more detail]
 
 
@@ -89,7 +89,7 @@ It is a rite of passage. It is a reminder that we take the quality of our work a
 With 16 new students every four months and apprentices graduating to developers, there will probably be at least one pass presentation per week and sometimes more.  
 
 *Who is going to sit on the appointment panels?*
-For now, the panel consists of our two company directors, Ines and Dan, and our resident expert, Nelson.
+For now, the panel consists of our two company directors, [Ines](https://twitter.com/iteles) and [Dan](https://twitter.com/dsofer), and our resident expert, [Nelson](https://github.com/nelsonic).
 
 *How much work have we got coming in?*
 Check the projects board or come to the Friday projects meeting to find out.

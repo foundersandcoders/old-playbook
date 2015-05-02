@@ -10,7 +10,7 @@ We have five kinds of developer at Founders & Coders.
 
 > It is important to note that this is a **technical distinction only**. Founders & Coders as an organisation has a completely flat hierarchy and all _members_ have equal say and voting rights!
 
-**Student**
+**Student**    
  During the [8 week foundation course](https://github.com/foundersandcoders/playbook/blob/master/foundation.md), you are a _student_. You can't work on F&C client work but you can and _should_ dedicate your time to learning the material and asking as many questions as you can!
 
 **Graduate**    
@@ -70,29 +70,29 @@ Some implications of these proposals:
 
 ## FAQs  
 
-*What happens to somebody who has finished the course, but is not yet an apprentice?*
+*What happens to somebody who has finished the course, but is not yet an apprentice?*    
 They are considered a graduate and can continue to work on MVPs, follow-up work for MVP clients, internal projects and their own projects.  
 
-*What sorts of support will graduates get before they are apprentices?*
+*What sorts of support will graduates get before they are apprentices?*    
  Less than we would like. They need to make sure that they are working together with other graduates and are regularly submitting their own work to peer review as well as peer reviewing other graduates' work.  
 
-*What happens if somebody fails the panel submission?*
+*What happens if somebody fails the panel submission?*    
 This should never happen. It is the responsibility of the panel members to make sure a candidate is ready before they submit to the panel.  
 
-*Where and when will the presentations take place?*
+*Where and when will the presentations take place?*    
 Downstairs, possibly on Fridays, with drinks afterwards.  
 
-*What is the point of the presentation?*
+*What is the point of the presentation?*    
 It is a rite of passage. It is a reminder that we take the quality of our work and our teaching seriously. And it is something for students to aim for.
 
-*Will there be a presentation every week?*
+*Will there be a presentation every week?*    
 With 16 new students every four months and apprentices graduating to developers, there will probably be at least one pass presentation per week and sometimes more.  
 
-*Who is going to sit on the appointment panels?*
+*Who is going to sit on the appointment panels?*    
 For now, the panel consists of our two company directors, [Ines](https://twitter.com/iteles) and [Dan](https://twitter.com/dsofer), and our resident expert, [Nelson](https://github.com/nelsonic).
 
-*How much work have we got coming in?*
+*How much work have we got coming in?*    
 Check the projects board or come to the Friday projects meeting to find out.
 
-*What will apprentices be paid?*
+*What will apprentices be paid?*    
 We are a freelance co-operative. We are all self-employed. We set our own rates of pay. But we are aiming for a starting rate for apprentices of £10/hour.

@@ -1,6 +1,6 @@
 #Classroom schedule  
 
-**Start each day with a coding challenge**     
+**Start each day at 10am with a coding challenge**     
 Start the day with a 30-minute paired programming session. 
 
 **Start each week with a new project**     

@@ -16,7 +16,7 @@ Each role group presents their research findings at the end of the day on Monday
 Talks and MVP pitches generally take place at 5.30pm Tuesday to Thursday.  
 
 **End the day by reviewing someone else's code**     
-Before going home each day on Tuesday to Thursday, select a different team's project, follow the README, and leave feedback in the form of GitHub issues.  
+Before going home each day on Tuesday to Thursday, select a different team's project, follow the README, and leave feedback in the form of GitHub issues (if you prefer, you can review all three projects in one go, but make sure you review and leave issues on every other team's project every week).  
 
 **Review the week's learning on Friday afternoon**     
 Do a *Stop, Go, Continue* session at some point after lunch.  

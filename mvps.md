@@ -20,18 +20,25 @@ The client will be expected to complete a project questionnaire, that should ale
 + Each project will normally start on a Monday.
 + Projects will last for two weeks (athough later projects may be completed over one week, if preferred)
 + Each team will use PivotalTracker to manage the project.
-+ Each team will appoint a trainer to train the client in using PivotalTracker.
 + Each project will consist of two one-week sprints.
 + The client will be invited to join the team on the first Monday to agree the scope of the project and to participate in a sprint planning meeting.
 + The client will be invited to join the team on the second Monday for a sprint review and planning meeting.
 + The client will be invited to join the team for a project review on the final day of the project.
 
-### Communication
+### UX lead
+
++ Each team will appoint a UX lead who will work with the client to produce wireframes and user stories.
++ The UX lead will also train the client in the role of the *product owner* and the use of PivotalTracker.
+
+### Team lead
 
 + Each project team will appoint a team lead, who's job it will be to communicate with the client throughout the project.
 + It is up to the team lead to arrange meeting times with the client.
 + It is up to the team lead to notify the client of any changes to schedule or personnel.
 + It is up to the team lead to delegate any of these tasks if they are not available to carry them out.
+
+### Communication
+
 + It is the responsiblity of all team members to notify their colleagues of any changes to their own availability.
 
 ### Documentation

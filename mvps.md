@@ -2,14 +2,18 @@
 
 After completion of the foundation course, students can continue with a further period of study, consisting of four projects completed over up to eight weeks.
 
-Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will usually be for external clients.
+Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will usually be for external clients of potential employers.
 
 ##Guidelines
 
 ### Project selection
 
 + After a project is posted on the MVP projects board, students can add their names to it.
-+ Students will work on projects in teams of 2-5.
++ We generally recommend teams of 2-4, with 3 usually being the ideal number.
+
+### Before starting
+
+The client will be expected to complete a project questionnaire, that should alert the team to all the major issues that they will need to address both before and during the project. [in preparation]
 
 ### Process
 
@@ -43,7 +47,7 @@ On successful completion of a project, all income received for these MVPs will b
 
 ### On completion of four projects
 
-Graduate developers can continue to work on MVP projects, as they become available. We recommend two-person teams working for up to a week on a project, making MVPs a viable means for students to earn a modest living while they continue to develop their skills. 
+After completion of four projects graduate developers may decide to prepare their submission to the apprentice panel. They can also continue to work on MVP projects, as they become available.
 
 We also encourage graduates to continue with any follow-up work for the client after the completion of an MVP.
 

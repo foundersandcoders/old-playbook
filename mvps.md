@@ -43,7 +43,7 @@ The client will be expected to complete a project questionnaire, that should ale
 
 ### Pay
 
-On successful completion of a project, all income received for these MVPs will be divided equally between the students.
+On successful completion of a project, all income received for these MVPs will be divided equally between the students. It is the responsibility of students to raise their own invoices.
 
 ### On completion of four projects
 

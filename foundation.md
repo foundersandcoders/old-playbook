@@ -19,7 +19,7 @@ More on databases and testing with Node.js.
 
 **Week 6: The hapi framework**    
 
-**Week 7: React**    
+**Week 7: Front-end JavaScript**    
 
 **Week 8: dog food**    
 

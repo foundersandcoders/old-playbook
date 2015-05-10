@@ -7,3 +7,5 @@
 + **Clean desk policy**. We have a clean-desk policy. Please leave your desk clear before you leave each day.
 
 + **Hot desking**. Please sit anywhere downstairs when you arrive each morning. 
+
++ **20-minute rule**. Struggle is good, but not too much of it. As a general rule, if you cannot solve a problem within 20 minutes, then stop and talk to somebody about it (there should be a timer on your desk)

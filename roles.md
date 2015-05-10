@@ -12,7 +12,7 @@ The DevOps engineer is responsible for understanding the dev environment, settin
 ## UX designer
 The UX designer is responsible for ensuring that the user interfaces are wireframed and that the user experience meets expectations.
 
-### Front-end developer
+## Front-end developer
 The front-end developer is responsible for the look-and-feel of the user interfaces and for ensuring a mobile-first design.
 
 ### Editor

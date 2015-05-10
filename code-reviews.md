@@ -23,8 +23,14 @@ If you are reviewing a Pull Request add line-comments: https://help.github.com/a
 + If you think any of the files are too long (~200+ lines);  
 + If you think the code could be made more modular; 
 + If you think the functions are not well-named; 
-+ If any of the functions look too long to you; 
-+ If you cannot follow the flow of control in the code; 
-+ If you think functions are too-deeply nested; 
++ If any of the functions look too long to you;
++ If any of the functions look hard to test;
++ If variable names are not being declared at the top of the block in which they are used (why is this important?);
++ If any of the code does not look DRY;
++ If the code is not nicely commented;
++ If the indentation is not consistent;
++ If you cannot follow the flow of control in the code;
++ If you see any callbacks without error checking;
++ If you think functions are too-deeply nested (any signs of callback hell?); 
 + If you see any username/password credentials in the code.
 

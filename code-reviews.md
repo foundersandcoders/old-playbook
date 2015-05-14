@@ -68,7 +68,7 @@ If the code author(s) are available, try to pick their brains and request a walk
 The main branch of a repository should be "*stand alone*".
 By this we mean it should be self-explanatory (without further clarification from the original creators).
 
-Raise issues is you spot any gaps in clarity in the code or documentation.
+Raise issues if you spot any gaps in clarity in the code or documentation.
 
 #### Etiquette
 

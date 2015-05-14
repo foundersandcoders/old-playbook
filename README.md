@@ -1,4 +1,4 @@
-#Founders &amp; Coders Playbook ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+#Founders &amp; Coders Playbook [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/foundersandcoders/playbook/issues)
 
 This playbook repo is intended to be a reference on how we do things at [Founders &amp; Coders](http://www.foundersandcoders.org).
 

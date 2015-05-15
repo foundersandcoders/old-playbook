@@ -87,32 +87,30 @@ If you are reviewing a Pull Request add line-comments: https://help.github.com/a
 
 
 + Does this pass the "everyone on the project gets abducted by aliens" test?
-+ If the code doesn't run when using `npm i && npm test` (*for node.js based projects...*);
-+ If any dependencies are not explicitly declared
-+ If the installation instructions are incomplete;
-+ If the instructions for running tests are incomplete;
-+ If the instructions for running the app are incomplete;
-+ If no `npm start` script is defined in `package.json` (*node.js projects*)
-+ If either the tests or the app fail to run;
-+ If you don't understand the *point* of a test;
-+ If the *code coverage* is incomplete and it is not obvious why;
-+ If any of the code fails linting tests (e.g. [jshint](https://github.com/docdis/learn-jshint));
-+ If you think the file structure is unclear;
-+ If you think any of the **files** are ***too long*** (~200+ lines);  
-+ If code is **not** "[***DRY***](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
-(*i.e: lots of repitition*)
-+ If you think the code could be made more modular;
-+ If you think the functions are not well-named;
-+ If any of the functions look too long or they appear to be doing too many things;
++ Does the repository have tests? (*if not, red-flag it*)
++ Do the tests pass? (following the instructions in the repo's readme) e.g: `npm i && npm test` (*for node.js based projects...*)
++ all ***dependencies explicitly declared***?
++ installation instructions complete?
++ instructions for running tests complete? (*try running the tests!*)
++ is `npm start` script defined in `package.json` (*node.js projects*)
++ do you understand the *point* of all the tests? (are there are any "tests" without assertions?)
++ If the *code coverage* is incomplete, why is that?
++ Does all the code pass "lint" checker? (see: [jshint](https://github.com/docdis/learn-jshint));
++ Is the file/project structure clear?
++ are any of the **files** ***too long*** (~200+ lines);  
++ is the code  "[***DRY***](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
+(*i.e: limited repitition*)
++ could the code be more modular?
++ are any functions poorly/confusingly named?
++ do any functions look too long or appear to be doing too many things?
 + If any of the functions look hard to test (*or* ***are untested***!);
-+ If variable names are not being declared at the top of the block in which they are used (why is this important?);
-+ If any of the code does not look DRY;
-+ If the code is not nicely commented;
-+ If the indentation is not consistent;
-+ If you cannot follow the flow of control in the code;
-+ If you see any callbacks without error checking;
-+ If you think functions are too-deeply nested (any signs of "callback hell"?);
-+ If you see any username/password or secret/api keys or credentials in the code flag these.
++ are any variable names not being declared at the top of the block in which they are used (why is this important?)
++ is the code appropriately commented?
++ is indentation consistent?
++ is the flow of the program clear? (are there too many branches?)
++ any callbacks without error checking?
++ any functions too-deeply nested (any signs of "callback hell"?) ?
++ are there any username/password or secret/api keys or credentials in the code? flag these!
 
 ## Background Reading
 

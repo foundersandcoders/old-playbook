@@ -15,12 +15,12 @@ Each project will consist of a complete minimum viable product (MVP). The first 
 
 ### Before starting
 
-The client will be expected to complete a project questionnaire, that should alert the team to all the major issues that they will need to address both before and during the project.
+The project team will be expected to meet with the client well in advance of starting on a project to agree the scope of the MVP and to get sign off from the client on a *minimum set of deliverables*. After the deliverables have been agreed, we will raise an invoice, which the client will usually be expected to pay before we start work.
 
 ### Process
 
 + Each project will normally start on a Monday.
-+ Projects will last for two weeks (athough later projects may be completed over one week, if preferred)
++ Projects will usually last for one week with a minimum of two weeks between projects. 
   + **Note:** The main MVP will be 1 week (as communicated to clients) but team may want to work on them a little longer to round them off for case studies or if they are of particular interest so should _always_ give themselves 2 weeks
 + Each team will use PivotalTracker to manage the project.
 + Each project will consist of two one-week sprints.

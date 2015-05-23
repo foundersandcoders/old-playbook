@@ -9,7 +9,7 @@ We have five kinds of developer at Founders & Coders.
 + Developer
 + Lead Developer
 
-> It is important to note that this is a **technical distinction only**. Founders & Coders as an organisation has a completely flat hierarchy and all _members_ have equal say and voting rights!
+> It is important to note that this is a **technical distinction only**. Founders & Coders as an organisation has a completely flat hierarchy and all _members_ have equal say and voting rights.
 
 **Student**    
  During the [8 week foundation course](https://github.com/foundersandcoders/playbook/blob/master/foundation.md), you are a _student_. You can't work on F&C client work but you can and _should_ dedicate your time to learning the material and asking as many questions as you can!
@@ -68,6 +68,13 @@ Some implications of these proposals:
 + There is a clearly-defined journey from less experienced to more experienced developer;
 + Everyone in F&C takes the quality of their work and their contribution to learning seriously;
 + We build up some high-quality open source learning materials that we and others can re-use.
+
+## Why do this?
+There are a few reasons you might want to progress through the levels:
++ **[Graduates and Apprentices]** Opportunity to pair with someone more experienced on projects
++ **[Developers and Lead developers]** Opportunity to pair with someone less experienced and become a mentor
++ **Improved developer reputation** - all of the materials you create for you panel will be used and publicised by Founders & Coders, providing a lot of exposure for your work (and hopefully a few starred repos ;))
++ **For Graduates**, taking the Apprentice panel also allows you to move away from working solely on MVPs and into fuller projects.
 
 ## FAQs  
 

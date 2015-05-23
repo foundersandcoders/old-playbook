@@ -1,6 +1,14 @@
 # Developer journey
 _Signed off by F&C CIC on [28th April 2015](http://tinyurl.com/m3q4dll)._
 
+**In this document:**
++ [Developer levels](#levels)
++ [The Panel](#the-panel)
++ [Why do this?](#why-do-this)
++ [FAQs](#faqs)
+
+<a name="levels" />
+##Developers at Founders & Coders
 We have five kinds of developer at Founders & Coders.
 
 + Student

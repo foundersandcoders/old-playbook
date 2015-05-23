@@ -12,6 +12,13 @@ Each week requires:
 + **3-4 people to be role mentors**, one for each group (this can include the person leading the week)
 + **3-4 people to be clients** on weeks where this is required
 
+###Role Groups
+Originally we carried the same 4 role groups from week to week, but we have found it best to have **different role groups from week to week, according to the key knowledge required to form a solid foundation for that week**.   
+Each group has a mentor who:
++ Explains the task for 5-10 minutes in the morning (for testing, this is more involved and in the first week may require a full day's collaborative teaching)
++ Checks in withe the role groups throughout the day to field questions and re-direct learning if they wander too far off track.
+
+###General tips
 When asked a question:
 + What did you google for?
 + Have you asked the other members of your team?

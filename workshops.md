@@ -10,10 +10,11 @@
 
 ### Mailing lists
 - [ ] Our mailing list on MailChimp
-- [ ] Ladies Who Code 
+- [ ] Ladies Who Code (contact through @iteles)
 
 ### Twitter
 - [ ] Tweet using @founderscoders
+    - Tweets should always include a good photo of a previous workshop environment in which you tag people or relevant groups who might be interested, such as @LNUG, @ladieswhocode or @codebar)
 - [ ] Pin the tweet
 - [ ] Get everyone to retweet
 

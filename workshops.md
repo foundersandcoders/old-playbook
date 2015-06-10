@@ -33,7 +33,7 @@
 - [ ] Supply fruit, snacks, treat and drinks
 
 ## Feedback
-= [ ] Get participants to complete a survey before they leave (see e.g. https://founderscoders.typeform.com/)
+- [ ] Get participants to complete a survey before they leave (see e.g. https://founderscoders.typeform.com/to/wMiTnS)
 
 
 

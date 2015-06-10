@@ -31,3 +31,9 @@
 ## Catering
 - [ ] Ask Bes, otherwise the pizzas from the Co-op on Roman Rd are quite nice
 - [ ] Supply fruit, snacks, treat and drinks
+
+## Feedback
+= [ ] Get participants to complete a survey before they leave (see e.g. https://founderscoders.typeform.com/)
+
+
+

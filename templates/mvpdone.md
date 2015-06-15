@@ -44,3 +44,6 @@ ${19:DD MMM YYYY} - ${20:DD MMM YYYY}
 
 Team:
 ${21:Full name} - ${22:Email}
+
+Regards,
+${23:} & ${24:}

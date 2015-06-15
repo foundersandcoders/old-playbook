@@ -43,7 +43,7 @@ Team:
 ${21:Full name} - ${22:Email}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>specification</tabTrigger>
+	<!--<tabTrigger>specification</tabTrigger>-->
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

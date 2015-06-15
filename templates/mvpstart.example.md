@@ -1,3 +1,6 @@
+# MVP start example email
+---
+
 Hi Joe,
 
 We'd like to confirm that the 4 essential features to the MVP that we discussed in our prior meeting are as follows:

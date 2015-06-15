@@ -1,5 +1,7 @@
 # MVP projects
 
+*This is very in need of an update. See also the [templates](https://github.com/foundersandcoders/playbook/tree/master/templates) directory.* 
+
 After completion of the foundation course, students can continue with a further period of study, consisting of four projects completed over up to eight weeks.
 
 Each project will consist of a complete minimum viable product (MVP). The first round of MVPs can be for the students' own projects or will be suggested by us. [Subsequent projects](http://foundersandcoders.org/mvp) will usually be for external clients or potential employers.

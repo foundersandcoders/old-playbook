@@ -27,6 +27,8 @@
 
 ## Staffing
 - Student:staff ratio of < 4:1
+- Ensure the staff know well in advance who they are & how much they'll forseeably need to to
+- Organise a run-through with the staff a day or two before the workshop
 
 ## Catering
 - [ ] Ask Bes, otherwise the pizzas from the Co-op on Roman Rd are quite nice

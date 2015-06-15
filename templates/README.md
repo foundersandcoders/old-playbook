@@ -4,5 +4,5 @@ Here you will find a number of templates for various purposes. Inside `/snippets
 
 ## Submissions
 Alongside the template, provide an example of how it is used in a `.example.md` file.
-If possible, include a snippet for one+ text editors too.
+If possible, include a snippet for 1+ text editors too.
 Porting snippets to other text editor formats is always welcome.

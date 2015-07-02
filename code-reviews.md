@@ -85,32 +85,34 @@ If you are reviewing a Pull Request add line-comments: https://help.github.com/a
 
 #### Guide: Ask yourself (*the code author*) the following *Questions*
 
-
++ Does the commit history tell a coherent story?
 + Does this pass the "everyone on the project gets abducted by aliens" test?
 + Does the repository have tests? (*if not, red-flag it*)
 + Do the tests pass? (following the instructions in the repo's readme) e.g: `npm i && npm test` (*for node.js based projects...*)
-+ all ***dependencies explicitly declared***?
-+ installation instructions complete?
-+ instructions for running tests complete? (*try running the tests!*)
-+ is `npm start` script defined in `package.json` (*node.js projects*)
-+ do you understand the *point* of all the tests? (are there are any "tests" without assertions?)
++ Are all ***dependencies explicitly declared***?
++ Are installation instructions complete?
++ Are instructions for running tests complete? (*try running the tests!*)
++ Is `npm start` script defined in `package.json` (*node.js projects*)
++ Do you understand the *point* of all the tests? (are there are any "tests" without assertions?)
 + If the *code coverage* is incomplete, why is that?
 + Does all the code pass "lint" checker? (see: [jshint](https://github.com/docdis/learn-jshint));
 + Is the file/project structure clear?
-+ are any of the **files** ***too long*** (~200+ lines);  
-+ is the code  "[***DRY***](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
++ Are any of the **files** ***too long*** (~200+ lines);  
++ Is the code  "[***DRY***](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)"
 (*i.e: limited repitition*)
-+ could the code be more modular?
-+ are any functions poorly/confusingly named?
-+ do any functions look too long or appear to be doing too many things?
++ Could the code be more modular?
++ Are any functions poorly/confusingly named?
++ Could a comment be removed if your function was better named? 
++ Do any of your functions do more than one thing?
++ Will factoring out any of your code make yout functions easier to read?
 + If any of the functions look hard to test (*or* ***are untested***!);
-+ are any variable names not being declared at the top of the block in which they are used (why is this important?)
-+ is the code appropriately commented?
-+ is indentation consistent?
-+ is the flow of the program clear? (are there too many branches?)
-+ any callbacks without error checking?
-+ any functions too-deeply nested (any signs of "callback hell"?) ?
-+ are there any username/password or secret/api keys or credentials in the code? flag these!
++ Are any variable names not being declared at the top of the block in which they are used (why is this important?)
++ Is the code appropriately commented?
++ Is indentation consistent?
++ Is the flow of the program clear? (are there too many branches?)
++ Are any callbacks without error checking?
++ Are any functions too-deeply nested (any signs of "callback hell")?
++ Are there any username/password or secret/api keys or credentials in the code? Flag these!
 
 ## Background Reading
 

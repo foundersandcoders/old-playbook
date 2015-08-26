@@ -18,13 +18,13 @@ npm init, install, start, test. The fs and http modules.
 ####Week 4: Node.js modules, frameworks, databases and deployment    
 Modules, build tasks, databases, deployment, frameworks 
 
-####Week 5: Node.js, Databases, Testing    
-More on databases and testing with Node.js.
+####Week 5: The hapi framework    
+Introduction to the Node.js Web framework
 
-####Week 6: The hapi framework    
+####Week 6: Front-end JavaScript    
 
-####Week 7: Front-end JavaScript    
+####Week 7: The GitHub API
 
-####Week 8: dog food   
+####Week 8: The missing workshops
 
 As usual, all content is subject to change. 

@@ -4,7 +4,9 @@
 + Swap roles after 15 minutes 
 + If in doubt, follow the coding questions crib sheet  
 
-##Three kinds of pairing exercise 
+## Four kinds of pairing exercise 
+
+**Ping pong.** One person starts by creating a single failing test and then the partners take it in turns to first write code to make the test pass and then write a new failing test before passing the keyboard back to their partner.  
 
 **The driving test.** One student sits at the computer and the other student acts as examiner. the student being examined should explain their thinking as they work. Whenever the examiner thinks the other student is being too quiet or does not understand something, she can ask for more information, but otherwise should offer no advice nor provide any feedback.  
 
